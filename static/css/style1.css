@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255,208,0);
+    align-items: center;
+    font-family: cursive;
+}
+
+#d1{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border-radius: 20px;
+    position: relative;
+}
+
+#lang_select1{
+    width: 500px;
+    height: 50px;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    font-family: cursive;
+}
+
+#lang_select2{
+    width: 500px;
+    height: 50px;
+    border-radius: 15px;
+    font-family: cursive;
+}
+
+.t1{
+    width: 460px;
+    height: 300px;
+    background-color: #fff;
+    margin: auto;
+    /* margin-top: 100px; */
+    border-radius: 20px;
+    resize: none;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: cursive;
+    font-size: 15px;
+
+}
+
+#sub_src{
+    padding: 0;
+    margin: 0;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    font-family: cursive;
+    border: none;
+    color:rgb(255, 208, 0);
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #000;
+}
+
+.btn{
+    height: 60px;
+    width: 250px;
+    right: 0;
+    /* font-size: 20px; */
+    /* font-family: cursive; */
+    color: rgb(255, 208, 0);
+    cursor: pointer;
+    border-radius: 20px; 
+    /* background-image: url(/static/images/btn.gif); */
+    background-size: cover;
+    margin-right: 10px;
+    transition: background-color 0.2s ease-in,color 0.2 ease-in;;
+}
+
+#btnsid{
+    height: 70px;
+    width: 500px;
+    justify-content: space-evenly;
+    padding: 10px 0 10px 0;
+    display: flex;
+}
+
+#trans_btn{
+    height: 60px;
+    width: 250px;
+    font-size: 20px;
+    font-family: cursive;
+    cursor: pointer;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 10px; 
+    background-color: #0091e1;
+}
+
+#trans_btn:hover{
+    background-color:#fff;
+    color: #000000;
+    border: 1px solid black;
+    transition: background-color 0.4s ease-in,color 0.4 ease-in;;
+}
+
+#img1 {
+    background-color: #0091e1;
+    color: #0091e1;
+    width: 250px;
+    height: 60px; 
+    border-radius: 20px;
+}
+
+#img1:hover {
+    border: 1px solid black;
+}
+
+#submit{
+    width: 102%;
+    height: 102%;
+    font-family: cursive;
+    border-radius:15px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+    background-color:#0091e1;  
+}
+
+#submit:hover{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: background-color 0.4s ease-in, color 0.4 ease-in;
+}
