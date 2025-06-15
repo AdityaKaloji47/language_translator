@@ -46,12 +46,12 @@ A smart and intuitive **TransVerse** web application built with **HTML**, **CSS*
    cd language-translator
    ```
 3. Install dependencies:
-4. 
-5. Run the server:  
+
+4. Run the server:  
    ```bash
    python manage.py runserver
    ```
-6. Open in browser:  
+5. Open in browser:  
    ```
    http://localhost:8000
    ```
