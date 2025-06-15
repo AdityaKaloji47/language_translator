@@ -24,16 +24,16 @@ A smart and intuitive **TransVerse** web application built with **HTML**, **CSS*
 ![Welcome Page](./project/welcome.jpg)
 
 ### 📝 Text to Text  
-![Text to Text](./project/txt to txt.jpg)
+![Text to Text](./project/text.jpg)
 
 ### 🔤 Text Conversion  
-![Text Conversion](./project/textconversion.png)
+![Text Conversion](./project/text_opt.jpg)
 
 ### 🔁 Voice to Voice  
-![Voice to Voice](./project/voicetovoice.png)
+![Voice to Voice](./project/voice.jpg)
 
 ### 🔊 Voice Output  
-![Voice Output](./project/voiceoutput.png)
+![Voice Output](./project/voice_opt.jpg)
 
 ## 🛠️ How to Run
 
