@@ -18,13 +18,13 @@ A smart and intuitive **TransVerse** web application built with **HTML**, **CSS*
 
 ## 📸 Screenshots  
 ### 🏠 Home Page  
-![Home Page](./project/homepage.png)
+![Home Page](./project/home.jpg)
 
 ### 👋 Welcome Page  
-![Welcome Page](./project/welcome.png)
+![Welcome Page](./project/welcome.jpg)
 
 ### 📝 Text to Text  
-![Text to Text](./project/texttotext.png)
+![Text to Text](./project/txt to txt.jpg)
 
 ### 🔤 Text Conversion  
 ![Text Conversion](./project/textconversion.png)
