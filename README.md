@@ -1,6 +1,6 @@
-# 🌐 Language Translator
+# 🌐 TransVerse : Language Translator
 
-A smart and intuitive **Language Translator** web application built with **HTML**, **CSS**, and **JavaScript** on the frontend, and **Django (Python)** on the backend. It uses the **Google Translate API** to offer accurate **text-to-text** and **voice-to-voice** translations in **100+ languages**.
+A smart and intuitive **TransVerse** web application built with **HTML**, **CSS**, and **JavaScript** on the frontend, and **Django (Python)** on the backend. It uses the **Google Translate API** to offer accurate **text-to-text** and **voice-to-voice** translations in **100+ languages**.
 
 ## 🔧 Tech Stack
 
@@ -17,10 +17,23 @@ A smart and intuitive **Language Translator** web application built with **HTML*
 - 🔊 Speech-to-text and text-to-speech integration  
 
 ## 📸 Screenshots  
-> *(Add these if you have UI images in the repo)*  
-- `homepage.png`  
-- `text-translation.png`  
-- `voice-translation.png`
+### 🏠 Home Page  
+![Home Page](./project/homepage.png)
+
+### 👋 Welcome Page  
+![Welcome Page](./project/welcome.png)
+
+### 📝 Text to Text  
+![Text to Text](./project/texttotext.png)
+
+### 🔤 Text Conversion  
+![Text Conversion](./project/textconversion.png)
+
+### 🔁 Voice to Voice  
+![Voice to Voice](./project/voicetovoice.png)
+
+### 🔊 Voice Output  
+![Voice Output](./project/voiceoutput.png)
 
 ## 🛠️ How to Run
 
